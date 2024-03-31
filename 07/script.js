@@ -1,4 +1,5 @@
 /*
+
   Faça um programa que tenha um menu e apresente a seguinte mensagem:
   
   Olá usuário! Digite o número da opção desejada
@@ -15,6 +16,7 @@
     Se não houver nenhum item cadastrado, mostrar a mensagem: 
       "Não existem itens cadastrados"
   Caso o usuário digite 3, a aplicação deverá ser encerrada.
+
 */
 
 let option
